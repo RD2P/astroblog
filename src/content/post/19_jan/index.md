@@ -1,6 +1,6 @@
 ---
 title: "How I used an Astro theme to make this blog"
-description: "This post describes the steps I took to make this Astro blog with the Astro Cactus Theme."
+description: "I describe the steps I took to make this blog using Astro."
 publishDate: "19 Jan 2024"
 coverImage:
    src: "./cover.jpg"
