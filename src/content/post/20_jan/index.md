@@ -1,7 +1,10 @@
 ---
 title: "How I deployed this blog on Netlify"
 description: "I describe the steps of deploying this Astro blog on Netlify."
-publishDate: "26 Jan 2024"
+coverImage:
+   src: "./cover.png"
+   alt: "Coding blog Netlify wallpaper"
+publishDate: "25 Jan 2024"
 tags: ["guide", "blog"]
 ---
 
